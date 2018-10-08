@@ -1,0 +1,12 @@
+{
+  "require" : {
+	  "ext-mbstring": "*",
+    "wildbit/postmark-php":"*",
+    "soundasleep/html2text": "~0.5"
+  },
+  "require-dev": {
+    "ext-mbstring": "*",
+    "wildbit/postmark-php":"2.6.*",
+    "soundasleep/html2text": "~0.5"
+  }
+}
